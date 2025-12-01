@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: 9b4232ed10d52a44e900da9a44b68ff8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4440455227657546639
+    second: bob2_0
+  - first:
+      213: -6066094878197739409
+    second: bob2_1
+  - first:
+      213: -299394972872462946
+    second: bob2_2
+  - first:
+      213: -6175482880658845339
+    second: bob2_3
+  - first:
+      213: -4679661020431348099
+    second: bob2_4
+  - first:
+      213: -1408315948404060250
+    second: bob2_5
+  - first:
+      213: 3614151325335790081
+    second: bob2_6
+  - first:
+      213: -7193082343927842270
+    second: bob2_7
+  - first:
+      213: 8033560379457112967
+    second: bob2_8
+  - first:
+      213: 5877380931679465698
+    second: bob2_9
+  - first:
+      213: 6732314729526559071
+    second: bob2_10
+  - first:
+      213: -388550566555817584
+    second: bob2_11
+  - first:
+      213: -4327168202623825603
+    second: bob2_12
+  - first:
+      213: 6382132959802003859
+    second: bob2_13
+  - first:
+      213: 244642726240683726
+    second: bob2_14
+  - first:
+      213: 5587668475898943858
+    second: bob2_15
+  - first:
+      213: -2487425632411223589
+    second: bob2_16
+  - first:
+      213: -8037353442223178574
+    second: bob2_17
+  - first:
+      213: -6627845915622391134
+    second: bob2_18
+  - first:
+      213: -7806793412343678781
+    second: bob2_19
+  - first:
+      213: -8803614562437439654
+    second: bob2_20
+  - first:
+      213: 9031648196714362099
+    second: bob2_21
+  - first:
+      213: 6779005785080222613
+    second: bob2_22
+  - first:
+      213: 2396792033276574824
+    second: bob2_23
+  - first:
+      213: -936009937374212264
+    second: bob2_24
+  - first:
+      213: -8383457949379863347
+    second: bob2_25
+  - first:
+      213: 8509380813484460821
+    second: bob2_26
+  - first:
+      213: 8792267054357822173
+    second: bob2_27
+  - first:
+      213: -6827947186993018621
+    second: bob2_28
+  - first:
+      213: -4803688518989671276
+    second: bob2_29
+  - first:
+      213: -396050171952353551
+    second: bob2_30
+  - first:
+      213: 770866385615122749
+    second: bob2_31
+  - first:
+      213: -3035734579858945721
+    second: bob2_32
+  - first:
+      213: -8075159137666585928
+    second: bob2_33
+  - first:
+      213: -4218537327040129582
+    second: bob2_34
+  - first:
+      213: 3521784335841416834
+    second: bob2_35
+  - first:
+      213: -4174807000144734051
+    second: bob2_36
+  - first:
+      213: 2170408367083868482
+    second: bob2_37
+  - first:
+      213: 3372213079697480351
+    second: bob2_38
+  - first:
+      213: -8228326875386255415
+    second: bob2_39
+  - first:
+      213: -3014654730628330520
+    second: bob2_40
+  - first:
+      213: 5308425481799973245
+    second: bob2_41
+  - first:
+      213: 6462306198242257327
+    second: bob2_42
+  - first:
+      213: -1979795705964009299
+    second: bob2_43
+  - first:
+      213: -4567271371280962390
+    second: bob2_44
+  - first:
+      213: -2119583065063303020
+    second: bob2_45
+  - first:
+      213: 1204104690560081930
+    second: bob2_46
+  - first:
+      213: -2431143432019278212
+    second: bob2_47
+  - first:
+      213: 7259970165352915485
+    second: bob2_48
+  - first:
+      213: -4054394880060853213
+    second: bob2_49
+  - first:
+      213: 125973873869919425
+    second: bob2_50
+  - first:
+      213: 2780859469995536981
+    second: bob2_51
+  - first:
+      213: 1358237848184863237
+    second: bob2_52
+  - first:
+      213: -377698287767304865
+    second: bob2_53
+  - first:
+      213: 3804919511199964887
+    second: bob2_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bob2_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 170
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174127a3f755062c0800000000000000
+      internalID: -4440455227657546639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 170
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60153b09d6e0dba0800000000000000
+      internalID: -6066094878197739409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 169
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d2662cbd558dbf0800000000000000
+      internalID: -299394972872462946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 170
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561d2d50a074c4aa0800000000000000
+      internalID: -6175482880658845339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 170
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e82f788118e0fb0800000000000000
+      internalID: -4679661020431348099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 169
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afcbd34b18a47ce0800000000000000
+      internalID: -1408315948404060250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 170
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102a5275b7b082230800000000000000
+      internalID: 3614151325335790081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 170
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22afb0208b90d2c90800000000000000
+      internalID: -7193082343927842270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 170
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b813bf990fc7f60800000000000000
+      internalID: 8033560379457112967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 170
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0b86251d6a09150800000000000000
+      internalID: 5877380931679465698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 170
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f518f81c39cfd6d50800000000000000
+      internalID: 6732314729526559071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 170
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099e92f71579b9af0800000000000000
+      internalID: -388550566555817584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 170
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39cd3f227fc2f3c0800000000000000
+      internalID: -4327168202623825603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 133
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3919f4aec14e19850800000000000000
+      internalID: 6382132959802003859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 132
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6857a6345256300800000000000000
+      internalID: 244642726240683726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 132
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279da94cfd26b8d40800000000000000
+      internalID: 5587668475898943858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 132
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd97de6f093ea7dd0800000000000000
+      internalID: -2487425632411223589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_17
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 147
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc3606c0a5957090800000000000000
+      internalID: -8037353442223178574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 132
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2cd4d61492504a0800000000000000
+      internalID: -6627845915622391134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 93
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8356ee0c2b8a390800000000000000
+      internalID: -7806793412343678781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_20
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 93
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fd572f23743d580800000000000000
+      internalID: -8803614562437439654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 93
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4f475ee2cd65d70800000000000000
+      internalID: 9031648196714362099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 93
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593560648ddd31e50800000000000000
+      internalID: 6779005785080222613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_23
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 118
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cbfefc7ad134120800000000000000
+      internalID: 2396792033276574824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 93
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f0390dbef9203f0800000000000000
+      internalID: -936009937374212264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 93
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccd9c99969f7ab80800000000000000
+      internalID: -8383457949379863347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 56
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b0446e3c4671670800000000000000
+      internalID: 8509380813484460821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 56
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda3e517d48640a70800000000000000
+      internalID: 8792267054357822173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_28
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 51
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309472e95324e31a0800000000000000
+      internalID: -6827947186993018621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_29
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 56
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4949ff53ebed55db0800000000000000
+      internalID: -4803688518989671276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 56
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe2c8b8772f08af0800000000000000
+      internalID: -396050171952353551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 56
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31f0ebb4eaa2ba00800000000000000
+      internalID: 770866385615122749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_32
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 56
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749432fcb77eed5d0800000000000000
+      internalID: -3035734579858945721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_33
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba22ae5c854fef80800000000000000
+      internalID: -8075159137666585928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_34
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d51c0ed6aeb475c0800000000000000
+      internalID: -4218537327040129582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_35
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286dc59b134efd030800000000000000
+      internalID: 3521784335841416834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_36
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d981f86072b1016c0800000000000000
+      internalID: -4174807000144734051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_37
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 42
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241d19919e6de1e10800000000000000
+      internalID: 2170408367083868482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_38
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a5b42ede18cce20800000000000000
+      internalID: 3372213079697480351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_39
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c76dc86d4c1fcd80800000000000000
+      internalID: -8228326875386255415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_40
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb827cae7bc926d0800000000000000
+      internalID: -3014654730628330520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 42
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79b157b9d05ba940800000000000000
+      internalID: 5308425481799973245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_42
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 42
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9e800af39bea950800000000000000
+      internalID: 6462306198242257327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_43
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 42
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8eb2a7b4a5684e0800000000000000
+      internalID: -1979795705964009299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_44
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacacf1e2eacd90c0800000000000000
+      internalID: -4567271371280962390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_45
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498d7feae6ab592e0800000000000000
+      internalID: -2119583065063303020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00273126d6d5b010800000000000000
+      internalID: 1204104690560081930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_47
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 42
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c768778ede7d24ed0800000000000000
+      internalID: -2431143432019278212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_48
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 42
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d126bc1866890c460800000000000000
+      internalID: 7259970165352915485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_49
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 42
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3247fc27655ebb7c0800000000000000
+      internalID: -4054394880060853213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c41ff2229c8fb100800000000000000
+      internalID: 125973873869919425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_51
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5527d5f44f8979620800000000000000
+      internalID: 2780859469995536981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_52
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 42
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50abc8d602e69d210800000000000000
+      internalID: 1358237848184863237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_53
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f554b5d886522caf0800000000000000
+      internalID: -377698287767304865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob2_54
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 42
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ded608d22acdc430800000000000000
+      internalID: 3804919511199964887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bob2_0: -4440455227657546639
+      bob2_1: -6066094878197739409
+      bob2_10: 6732314729526559071
+      bob2_11: -388550566555817584
+      bob2_12: -4327168202623825603
+      bob2_13: 6382132959802003859
+      bob2_14: 244642726240683726
+      bob2_15: 5587668475898943858
+      bob2_16: -2487425632411223589
+      bob2_17: -8037353442223178574
+      bob2_18: -6627845915622391134
+      bob2_19: -7806793412343678781
+      bob2_2: -299394972872462946
+      bob2_20: -8803614562437439654
+      bob2_21: 9031648196714362099
+      bob2_22: 6779005785080222613
+      bob2_23: 2396792033276574824
+      bob2_24: -936009937374212264
+      bob2_25: -8383457949379863347
+      bob2_26: 8509380813484460821
+      bob2_27: 8792267054357822173
+      bob2_28: -6827947186993018621
+      bob2_29: -4803688518989671276
+      bob2_3: -6175482880658845339
+      bob2_30: -396050171952353551
+      bob2_31: 770866385615122749
+      bob2_32: -3035734579858945721
+      bob2_33: -8075159137666585928
+      bob2_34: -4218537327040129582
+      bob2_35: 3521784335841416834
+      bob2_36: -4174807000144734051
+      bob2_37: 2170408367083868482
+      bob2_38: 3372213079697480351
+      bob2_39: -8228326875386255415
+      bob2_4: -4679661020431348099
+      bob2_40: -3014654730628330520
+      bob2_41: 5308425481799973245
+      bob2_42: 6462306198242257327
+      bob2_43: -1979795705964009299
+      bob2_44: -4567271371280962390
+      bob2_45: -2119583065063303020
+      bob2_46: 1204104690560081930
+      bob2_47: -2431143432019278212
+      bob2_48: 7259970165352915485
+      bob2_49: -4054394880060853213
+      bob2_5: -1408315948404060250
+      bob2_50: 125973873869919425
+      bob2_51: 2780859469995536981
+      bob2_52: 1358237848184863237
+      bob2_53: -377698287767304865
+      bob2_54: 3804919511199964887
+      bob2_6: 3614151325335790081
+      bob2_7: -7193082343927842270
+      bob2_8: 8033560379457112967
+      bob2_9: 5877380931679465698
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
